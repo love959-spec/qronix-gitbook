@@ -1,8 +1,9 @@
 # Summary
 
-* [소개](README.md)
-* [회사 소개](about.md)
-* [사업영역](service.md)
-* [핵심가치](values.md)
-* [연혁](history.md)
-* [문의하기](contact.md)
+* [제안업체 현황](README.md)
+* [1. 회사연혁, 조직 및 인원현황](history.md)
+  * [가. 회사연혁](history.md)
+  * [나. 조직 및 인원현황](organization.md)
+* [2. 주요 사업 분야 · 주요고객 및 협력사](business.md)
+  * [가. 주요 사업 분야](business.md)
+  * [나. 주요고객 및 협력사](clients.md)

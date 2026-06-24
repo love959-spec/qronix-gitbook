@@ -1,8 +1,7 @@
 {
-  "title": "PayMerchant 회사 소개서",
-  "description": "가맹점 결제의 새로운 기준 — PayMerchant 회사 소개서",
+  "title": "제안업체 현황 — 통합 결제 플랫폼",
+  "description": "결제 솔루션 전문 기업 회사 소개 (Ⅲ. 제안업체 현황)",
   "language": "ko",
-  "author": "PayMerchant Inc.",
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
