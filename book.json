@@ -1,0 +1,10 @@
+{
+  "title": "PayMerchant 회사 소개서",
+  "description": "가맹점 결제의 새로운 기준 — PayMerchant 회사 소개서",
+  "language": "ko",
+  "author": "PayMerchant Inc.",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
