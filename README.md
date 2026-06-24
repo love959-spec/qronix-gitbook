@@ -5,7 +5,7 @@
 결제 관련 솔루션 공급 및 기술지원, 컨설팅 등을 수행하는 **솔루션 전문 기업**입니다.
 국가 및 공공기관, 금융기관, 일반기업 등 다양한 결제 관련 사업 경험을 보유하고 있습니다.
 
-> 📥 **[제안서 원본(PPTX) 다운로드](https://github.com/love959-spec/qronix-gitbook/raw/main/company-profile.pptx)** — 회사 소개 발표 자료(.pptx)
+> 📑 **[제안서 미리보기(화면에서 슬라이드 보기)](slides.md)** &nbsp;|&nbsp; 📥 **[원본 PPTX 다운로드](https://github.com/love959-spec/qronix-gitbook/raw/main/company-profile.pptx)**
 
 ---
 

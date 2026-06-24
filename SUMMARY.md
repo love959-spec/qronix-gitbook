@@ -1,6 +1,7 @@
 # Summary
 
 * [제안업체 현황](README.md)
+* [📑 제안서 미리보기](slides.md)
 * [1. 회사연혁, 조직 및 인원현황](history.md)
   * [가. 회사연혁](history.md)
   * [나. 조직 및 인원현황](organization.md)
