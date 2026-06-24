@@ -5,6 +5,8 @@
 결제 관련 솔루션 공급 및 기술지원, 컨설팅 등을 수행하는 **솔루션 전문 기업**입니다.
 국가 및 공공기관, 금융기관, 일반기업 등 다양한 결제 관련 사업 경험을 보유하고 있습니다.
 
+> 📥 **[제안서 원본(PPTX) 다운로드](https://github.com/love959-spec/qronix-gitbook/raw/main/company-profile.pptx)** — 회사 소개 발표 자료(.pptx)
+
 ---
 
 ## 핵심 역량
@@ -23,5 +25,13 @@
 2. 주요 사업 분야, 주요고객 및 협력사
    - [가. 주요 사업 분야](business.md)
    - [나. 주요고객 및 협력사](clients.md)
+
+---
+
+## 자료 다운로드
+
+| 자료 | 형식 | 다운로드 |
+|------|------|----------|
+| 제안업체 현황 (회사 소개) | PPTX | [⬇ 다운로드](https://github.com/love959-spec/qronix-gitbook/raw/main/company-profile.pptx) |
 
 > 📌 본 문서는 제안서 「Ⅲ. 제안업체 현황」을 기반으로 구성되었습니다.
